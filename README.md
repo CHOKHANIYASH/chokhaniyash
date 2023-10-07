@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Chokhani</h1>
-# 💫 About Me:I am a Full Stack Developer<br>
-👯 I’m looking to collaborate with  other developers working on the mentioned tech-stack<br>💬 Ask me about DSA, MERN Development, JAVA<br>⚡ Fun fact I love reading psychology books<br>📫 How to reach me yashchokhani95@gmail.com<br>portfolio https://portfolio-git-main-chokhaniyash.vercel.app
+💫 About Me:I am a Full Stack Developer<br>
+🌱 I’m currently learning AWS<br>
+💬 Ask me about DSA, MERN Development, JAVA<br>⚡ Fun fact I love reading psychology books<br>📫 How to reach me <b>yashchokhani95@gmail.com</b><br>portfolio https://portfolio-git-main-chokhaniyash.vercel.app
 
 
 ## 🌐 Socials:
