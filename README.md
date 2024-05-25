@@ -9,11 +9,11 @@
 
 - 📝 I write articles on [https://medium.com/@yashchokhani95](https://medium.com/@yashchokhani95)
 
-- 💬 Ask me about **DSA,MERN Development, DevOps, JAVA**
+- 💬 Ask me about **DSA, MERN Development, DevOps, JAVA**
 
 - 📫 How to reach me **yashchokhani95@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1bIJmVe3oMT_107jEdbCXwbZtNuQS9AevEeuDJBsfCbI/edit?usp=sharing](https://docs.google.com/document/d/1bIJmVe3oMT_107jEdbCXwbZtNuQS9AevEeuDJBsfCbI/edit?usp=sharing)
+- 📄 Resume [https://docs.google.com/document/d/1qXVjYnu-gV7s4FVuQHa6z-SNW4GMFZFSpdDI2N9yc_s/edit?usp=sharing](https://docs.google.com/document/d/1qXVjYnu-gV7s4FVuQHa6z-SNW4GMFZFSpdDI2N9yc_s/edit?usp=sharing)
 
 - ⚡ Fun fact **I love reading psychology books**
 
@@ -52,6 +52,7 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
+  <a href="https://registry.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_m02hno/logo/orig" alt="typescript" width="60" height="60"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chokhaniyash&show_icons=true&locale=en&layout=compact" alt="chokhaniyash" /></p>
 
