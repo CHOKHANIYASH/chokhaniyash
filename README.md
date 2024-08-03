@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 Portfolio [https://portfolio-git-main-chokhaniyash.vercel.app/](https://portfolio-git-main-chokhaniyash.vercel.app/)
+- 👨‍💻 Portfolio [https://portfolio-git-main-chokhaniyash.vercel.app/](https://portfolio-seven-rho-73.vercel.app/)
 
 - 📝 I write articles on [https://medium.com/@yashchokhani95](https://medium.com/@yashchokhani95)
 
