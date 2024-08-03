@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chokhani</h1>
-<h3 align="center">I am a Full Stack(MERN) and DevOps Developer</h3>
+<h3 align="center">I am a Backend and DevOps Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chokhaniyash&label=Profile%20views&color=0e75b6&style=flat" alt="chokhaniyash" /> </p>
 
