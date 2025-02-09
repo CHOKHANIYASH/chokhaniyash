@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashchokhani95@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1qXVjYnu-gV7s4FVuQHa6z-SNW4GMFZFSpdDI2N9yc_s/edit?usp=sharing](https://docs.google.com/document/d/1qXVjYnu-gV7s4FVuQHa6z-SNW4GMFZFSpdDI2N9yc_s/edit?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1qQ-ecc6K2uUnWSpWXde5zYTnyj5kCPJG/view?usp=sharing](https://drive.google.com/file/d/1qQ-ecc6K2uUnWSpWXde5zYTnyj5kCPJG/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading psychology books**
 
